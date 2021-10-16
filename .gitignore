@@ -1,0 +1,16 @@
+# : comments
+
+# no .a files
+*.a
+
+
+# ignore all image or video
+
+/media/*
+
+# ignore code-workspace
+/workspace.code-workspace
+
+# ignore pycache
+/__pycache__
+
